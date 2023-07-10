@@ -1,10 +1,22 @@
-### 💫Hi there, I'm MTĐ
+### Hi there, I'm MTĐ
 > [![View count](https://visitcount.itsvg.in/api?id=dragonkingl6&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=dragonkingl6)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/maitienduc.cute)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+- 🇻🇳 : I'm from VietNam
+- 👀 : Here is [my personal website](https://ltp.crfnetwork.cyou/)
+- ✍️ : There is [my blog and articles](https://blog.crfnetwork.cyou/)
+- 📧 : Contact me at [maitienducik55@gmail.com])
+- ❤️ : I'm passionate about:
+  - 🔐 Cyber Security
+  - 🪐 Operating Systems (Windows & Linux)
+  - 🖥️ Website Developer
+  - 📝 Writeups and Documenting
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
