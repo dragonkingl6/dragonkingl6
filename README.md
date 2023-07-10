@@ -3,13 +3,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/maitienduc.cute)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 - 🇻🇳 : I'm from VietNam
-- 👀 : Here is [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/maitienduc.cute)
+- 👀 : Here is   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/maitienduc.cute)
 - 📧 : Contact me at maitienducik55@gmail.com
 - ❤️ : I'm passionate about:
   - 📱 Phát triển ứng dụng
