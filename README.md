@@ -1,5 +1,5 @@
 # 💫About Me :
-Xin chào! Tôi là Mai Tiến Đức, một lập trình viên đam mê với niềm đam mê mã nguồn mở. Tôi thích tạo ra những dự án sáng tạo và chia sẻ kiến thức với cộng đồng lập trình.
+Xin chào! Tôi là Mai Tiến Đức, một lập trình viên đam mê với các ứng dụng trên điện thoại. Tôi thích tạo ra những dự án sáng tạo và chia sẻ kiến thức với cộng đồng lập trình.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/maitienduc.cute) 
