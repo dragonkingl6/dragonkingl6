@@ -1,4 +1,5 @@
 # 💫Hi there, I'm MTĐ
+[![](https://visitcount.itsvg.in/api?id=dragonkingl6&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/maitienduc.cute) 
