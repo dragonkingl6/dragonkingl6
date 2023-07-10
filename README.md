@@ -11,7 +11,7 @@
 - 🇻🇳 : I'm from VietNam
 - 👀 : Here is [my personal website](https://ltp.crfnetwork.cyou/)
 - ✍️ : There is [my blog and articles](https://blog.crfnetwork.cyou/)
-- 📧 : Contact me at maitienducik55@gmail.com)
+- 📧 : Contact me at maitienducik55@gmail.com
 - ❤️ : I'm passionate about:
   - 🔐 Cyber Security
   - 🪐 Operating Systems (Windows & Linux)
