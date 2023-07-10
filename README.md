@@ -9,12 +9,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 🇻🇳 : I'm from VietNam
-- 👀 : Here is [my personal website](https://ltp.crfnetwork.cyou/)
-- ✍️ : There is [my blog and articles](https://blog.crfnetwork.cyou/)
 - 📧 : Contact me at maitienducik55@gmail.com
 - ❤️ : I'm passionate about:
-  - 🔐 Cyber Security
-  - 🪐 Operating Systems (Windows & Linux)
+  - 📱 Phát triển ứng dụng
+  - 🎮 Lập trình game
   - 🖥️ Website Developer
   - 📝 Writeups and Documenting
 
