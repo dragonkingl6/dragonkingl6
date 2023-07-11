@@ -7,8 +7,8 @@
 - 👀 : Here is   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/maitienduc.cute)
 - 📧 : Contact me at maitienducik55@gmail.com
 - ❤️ : I'm passionate about:
-  - 📱 Phát triển ứng dụng
-  - 🎮 Lập trình game
+  - 📱 Application development
+  - 🎮 Programming game
   - 🖥️ Website Developer
   - 📝 Writeups and Documenting
 
